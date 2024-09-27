@@ -1,3 +1,7 @@
-body {
-    background: gold;
+:root {
+    --color-primary: #2d70c9;
+    --color-secondary: #64b6f9;
+    --color-accent: #f955af;
+    --color--headings: #272727;
+    --color-body: #918ca4;
 }
