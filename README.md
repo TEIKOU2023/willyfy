@@ -1,1 +1,1 @@
-A webpage exercise of html css.
+A basic webpage built with HTML and CSS as part of a learning exercise.
